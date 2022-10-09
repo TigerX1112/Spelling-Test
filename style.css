@@ -1,0 +1,30 @@
+.title_1{
+    color: burlywood;
+}
+.p_1{
+    font-size: 25px;
+}
+#body_1{
+    background-image: url(spelling_background.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 1800px;
+    height: 620px;
+    background-color: rgb(140, 178, 206);
+}
+
+#body_2{
+    background-image: url(spelling_background2.jpg);
+    background-size: cover;
+}
+
+#output{
+    background-color: white;
+    border: 2px dashed black;
+    width: 400px;
+    height: 200px;
+}
+
+#answer{
+    width: 300px;
+}
